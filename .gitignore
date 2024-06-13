@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+docker_stuff.sh
+run_migrations.sh
 # Distribution / packaging
 .Python
 build/
